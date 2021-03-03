@@ -1,0 +1,2 @@
+test/kernels/kernel1.cpp
+matrix_kernel

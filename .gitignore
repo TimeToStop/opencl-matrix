@@ -1,0 +1,17 @@
+
+
+/.vs/**
+
+/Debug/**
+/Release/**
+
+/x64/**
+
+*.sln
+
+/opencl-matrix/Debug/**
+/opencl-matrix/Release/**
+/opencl-matrix/x64/**
+
+/opencl-matrix/*.vcxproj*
+
